@@ -1,2 +1,3 @@
 # WD
-this is my forst Git Repository
+this is my first Git Repository
+Author - Ayush
